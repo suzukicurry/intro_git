@@ -7,3 +7,14 @@ git add
 git commit
 git rm
 git status
+
+git log
+git log --oneline
+git log -n3
+git log --oneline -n3
+git log -p
+git log -p first.txt
+
+git diff
+
+
