@@ -16,5 +16,6 @@ git log -p
 git log -p first.txt
 
 git diff
+git diff HEAD
 
 
