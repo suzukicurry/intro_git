@@ -1,2 +1,6 @@
 やるよ！
 gitの練習を！
+
+やること
+git add
+git commit
